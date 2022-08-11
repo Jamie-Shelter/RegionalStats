@@ -1,0 +1,1856 @@
+[
+  {
+    "Authority": "Amber Valley",
+    "Year": "256",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Ashfield",
+    "Year": "124",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Bassetlaw",
+    "Year": "114",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Blaby",
+    "Year": "175",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Bolsover",
+    "Year": "41",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Boston",
+    "Year": "91",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Broxtowe",
+    "Year": "151",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Charnwood",
+    "Year": "..",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Chesterfield",
+    "Year": "279",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Dartford",
+    "Year": "..",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Daventry",
+    "Year": "118",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "East Hampshire",
+    "Year": "176",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Enfield",
+    "Year": "955",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Forest of Dean",
+    "Year": "209",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Halton",
+    "Year": "..",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Havering",
+    "Year": "977",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Hertsmere",
+    "Year": "69",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Knowsley",
+    "Year": "679",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Leicester",
+    "Year": "1,161",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Maidstone",
+    "Year": "537",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Malvern Hills",
+    "Year": "72",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Middlesbrough",
+    "Year": "504",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Newcastle-under-Lyme",
+    "Year": "161",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "North Devon",
+    "Year": "600",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "North Hertfordshire",
+    "Year": "229",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "North Somerset",
+    "Year": "574",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "North West Leicestershire",
+    "Year": "135",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Northumberland",
+    "Year": "330",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Rother",
+    "Year": "..",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Rugby",
+    "Year": "76",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Slough",
+    "Year": "638",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "South Cambridgeshire",
+    "Year": "184",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "South Derbyshire",
+    "Year": "86",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Wealden",
+    "Year": "216",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Wellingborough",
+    "Year": "141",
+    "Region": "East Midlands",
+    "YearReigon": "9,310"
+  },
+  {
+    "Authority": "Babergh",
+    "Year": "196",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Basildon",
+    "Year": "166",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Bedford",
+    "Year": "307",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Braintree",
+    "Year": "265",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Breckland",
+    "Year": "244",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Brentwood",
+    "Year": "39",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Broadland",
+    "Year": "48",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Broxbourne",
+    "Year": "399",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Cambridge",
+    "Year": "171",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Castle Point",
+    "Year": "103",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Central Bedfordshire",
+    "Year": "584",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Chelmsford",
+    "Year": "347",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Colchester",
+    "Year": "321",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Croydon",
+    "Year": "658",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Dudley",
+    "Year": "105",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "East Devon",
+    "Year": "415",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "East Northamptonshire",
+    "Year": "99",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Eden",
+    "Year": "73",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Erewash",
+    "Year": "102",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Gloucester",
+    "Year": "381",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Hammersmith and Fulham",
+    "Year": "400",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Havant",
+    "Year": "274",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Hinckley and Bosworth",
+    "Year": "89",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Hounslow",
+    "Year": "..",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Isles of Scilly",
+    "Year": "3",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Lewisham",
+    "Year": "1,830",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Lincoln",
+    "Year": "162",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Melton",
+    "Year": "..",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Newham",
+    "Year": "..",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "North East Lincolnshire",
+    "Year": "407",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "North Warwickshire",
+    "Year": "107",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Oadby and Wigston",
+    "Year": "42",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Ribble Valley",
+    "Year": "10",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Shropshire",
+    "Year": "289",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "South Hams",
+    "Year": "298",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "South Ribble",
+    "Year": "411",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "South Tyneside",
+    "Year": "..",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Spelthorne",
+    "Year": "212",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Tameside",
+    "Year": "401",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Telford and Wrekin",
+    "Year": "376",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Tendring",
+    "Year": "266",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Torbay",
+    "Year": "226",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Walsall",
+    "Year": "343",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Warrington",
+    "Year": "1,053",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "West Berkshire",
+    "Year": "200",
+    "Region": "East of England",
+    "YearReigon": "11,820"
+  },
+  {
+    "Authority": "Barking and Dagenham",
+    "Year": "864",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Barnet",
+    "Year": "1,124",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Bexley",
+    "Year": "273",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Brent",
+    "Year": "1,280",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Bromley",
+    "Year": "500",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Camden",
+    "Year": "343",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "City of London",
+    "Year": "2",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Crawley",
+    "Year": "282",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Dover",
+    "Year": "209",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Eastleigh",
+    "Year": "178",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Gosport",
+    "Year": "227",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Great Yarmouth",
+    "Year": "286",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Hackney",
+    "Year": "725",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Hambleton",
+    "Year": "..",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Haringey",
+    "Year": "1,486",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Hartlepool",
+    "Year": "..",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Herefordshire, County of",
+    "Year": "609",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Hillingdon",
+    "Year": "1,287",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Ipswich",
+    "Year": "1,378",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Isle of Wight",
+    "Year": "344",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Kensington and Chelsea",
+    "Year": "389",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Kingston upon Hull, City of",
+    "Year": "817",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Lancaster",
+    "Year": "..",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Mansfield",
+    "Year": "36",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "New Forest",
+    "Year": "553",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Plymouth",
+    "Year": "528",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Redcar and Cleveland",
+    "Year": "237",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "South Somerset",
+    "Year": "194",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Stoke-on-Trent",
+    "Year": "478",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Three Rivers",
+    "Year": "228",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Tunbridge Wells",
+    "Year": "..",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Uttlesford",
+    "Year": "47",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "West Devon",
+    "Year": "200",
+    "Region": "London",
+    "YearReigon": "23990"
+  },
+  {
+    "Authority": "Cotswold",
+    "Year": "54",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Dacorum",
+    "Year": "405",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Folkestone and Hythe",
+    "Year": "122",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Harrogate",
+    "Year": "..",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Merton",
+    "Year": "396",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Milton Keynes",
+    "Year": "663",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "North Lincolnshire",
+    "Year": "..",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "North Tyneside",
+    "Year": "400",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Portsmouth",
+    "Year": "680",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "South Northamptonshire",
+    "Year": "137",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "St. Helens",
+    "Year": "352",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Stockport",
+    "Year": "592",
+    "Region": "North East",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Allerdale",
+    "Year": "..",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Barrow-in-Furness",
+    "Year": "125",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Blackburn with Darwen",
+    "Year": "794",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Blackpool",
+    "Year": "317",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Bolton",
+    "Year": "540",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Burnley",
+    "Year": "133",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Bury",
+    "Year": "77",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Carlisle",
+    "Year": "174",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Cheshire East",
+    "Year": "713",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Cheshire West and Chester",
+    "Year": "641",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Chorley",
+    "Year": "739",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Copeland",
+    "Year": "135",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "East Suffolk",
+    "Year": "636",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Fenland",
+    "Year": "140",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Greenwich",
+    "Year": "595",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Horsham",
+    "Year": "185",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "King's Lynn and West Norfolk",
+    "Year": "96",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Kingston upon Thames",
+    "Year": "210",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Lewes",
+    "Year": "..",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Luton",
+    "Year": "348",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Norwich",
+    "Year": "313",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Nuneaton and Bedworth",
+    "Year": "469",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Pendle",
+    "Year": "115",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Redbridge",
+    "Year": "..",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Reigate and Banstead",
+    "Year": "290",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Richmond upon Thames",
+    "Year": "95",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Rushcliffe",
+    "Year": "121",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Salford",
+    "Year": "543",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "South Gloucestershire",
+    "Year": "586",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "South Kesteven",
+    "Year": "159",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Southampton",
+    "Year": "368",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "St Albans",
+    "Year": "156",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Sunderland",
+    "Year": "318",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Thurrock",
+    "Year": "288",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Vale of White Horse",
+    "Year": "296",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Waverley",
+    "Year": "127",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "West Lancashire",
+    "Year": "35",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Westminster",
+    "Year": "348",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Wokingham",
+    "Year": "150",
+    "Region": "North West",
+    "YearReigon": "7,180"
+  },
+  {
+    "Authority": "Adur",
+    "Year": "42",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Arun",
+    "Year": "291",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Ashford",
+    "Year": "301",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Basingstoke and Deane",
+    "Year": "217",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Bracknell Forest",
+    "Year": "593",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Brighton and Hove",
+    "Year": "..",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Buckinghamshire",
+    "Year": "1,038",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Canterbury",
+    "Year": "247",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Cherwell",
+    "Year": "149",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Chichester",
+    "Year": "..",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Craven",
+    "Year": "50",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Darlington",
+    "Year": "252",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Doncaster",
+    "Year": "354",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "East Cambridgeshire",
+    "Year": "..",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "East Riding of Yorkshire",
+    "Year": "123",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "East Staffordshire",
+    "Year": "55",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Eastbourne",
+    "Year": "..",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Elmbridge",
+    "Year": "159",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Epsom and Ewell",
+    "Year": "81",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Exeter",
+    "Year": "651",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Gateshead",
+    "Year": "1,311",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Gedling",
+    "Year": "129",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Gravesham",
+    "Year": "367",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Harlow",
+    "Year": "81",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Harrow",
+    "Year": "213",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Hart",
+    "Year": "42",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "High Peak",
+    "Year": "244",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Huntingdonshire",
+    "Year": "614",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Lambeth",
+    "Year": "1,535",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Lichfield",
+    "Year": "122",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Maldon",
+    "Year": "97",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Mendip",
+    "Year": "334",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Mid Devon",
+    "Year": "118",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Mid Suffolk",
+    "Year": "160",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Mid Sussex",
+    "Year": "183",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Nottingham",
+    "Year": "923",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Oxford",
+    "Year": "233",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Peterborough",
+    "Year": "254",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Reading",
+    "Year": "253",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Richmondshire",
+    "Year": "46",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Rossendale",
+    "Year": "329",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Rotherham",
+    "Year": "505",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Scarborough",
+    "Year": "320",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Selby",
+    "Year": "110",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "South Holland",
+    "Year": "108",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "South Oxfordshire",
+    "Year": "283",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "South Staffordshire",
+    "Year": "42",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Stockton-on-Tees",
+    "Year": "1,446",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Stratford-on-Avon",
+    "Year": "263",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Sutton",
+    "Year": "353",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Tamworth",
+    "Year": "129",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Teignbridge",
+    "Year": "690",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Test Valley",
+    "Year": "261",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Tonbridge and Malling",
+    "Year": "97",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Torridge",
+    "Year": "203",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Waltham Forest",
+    "Year": "996",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Wandsworth",
+    "Year": "..",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Warwick",
+    "Year": "86",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Welwyn Hatfield",
+    "Year": "488",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "West Oxfordshire",
+    "Year": "89",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "West Suffolk",
+    "Year": "232",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Wigan",
+    "Year": "613",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Wiltshire",
+    "Year": "945",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Wirral",
+    "Year": "269",
+    "Region": "South East",
+    "YearReigon": "17,350"
+  },
+  {
+    "Authority": "Bath and North East Somerset",
+    "Year": "202",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Bournemouth, Christchurch and Poole",
+    "Year": "772",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Bristol, City of",
+    "Year": "483",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Cheltenham",
+    "Year": "154",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Corby",
+    "Year": "153",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Cornwall",
+    "Year": "1,458",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Derbyshire Dales",
+    "Year": "221",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Ealing",
+    "Year": "1,234",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Epping Forest",
+    "Year": "123",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Fareham",
+    "Year": "117",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Fylde",
+    "Year": "58",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Hyndburn",
+    "Year": "58",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Manchester",
+    "Year": "2,127",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Medway",
+    "Year": "721",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Newark and Sherwood",
+    "Year": "..",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "North Kesteven",
+    "Year": "158",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Oldham",
+    "Year": "685",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Ryedale",
+    "Year": "125",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Sheffield",
+    "Year": "361",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Solihull",
+    "Year": "333",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Somerset West and Taunton",
+    "Year": "..",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "South Lakeland",
+    "Year": "166",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Stevenage",
+    "Year": "..",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Stroud",
+    "Year": "..",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Swale",
+    "Year": "324",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Tandridge",
+    "Year": "136",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Tewkesbury",
+    "Year": "175",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Thanet",
+    "Year": "610",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Watford",
+    "Year": "133",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "West Lindsey",
+    "Year": "238",
+    "Region": "South West",
+    "YearReigon": "11,910"
+  },
+  {
+    "Authority": "Birmingham",
+    "Year": "1,278",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Bromsgrove",
+    "Year": "117",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Cannock Chase",
+    "Year": "95",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "County Durham",
+    "Year": "1,268",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Dorset",
+    "Year": "618",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "East Lindsey",
+    "Year": "..",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Hastings",
+    "Year": "431",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Leeds",
+    "Year": "4,747",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Liverpool",
+    "Year": "215",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Mole Valley",
+    "Year": "148",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "North Norfolk",
+    "Year": "91",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Northampton",
+    "Year": "791",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Preston",
+    "Year": "..",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Rochford",
+    "Year": "96",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Rushmoor",
+    "Year": "190",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Sefton",
+    "Year": "179",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Sevenoaks",
+    "Year": "175",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "South Norfolk",
+    "Year": "42",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Southend-on-Sea",
+    "Year": "552",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Southwark",
+    "Year": "1,005",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Stafford",
+    "Year": "40",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Staffordshire Moorlands",
+    "Year": "117",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Surrey Heath",
+    "Year": "61",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Swindon",
+    "Year": "268",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Trafford",
+    "Year": "414",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Wakefield",
+    "Year": "969",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Winchester",
+    "Year": "158",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Windsor and Maidenhead",
+    "Year": "214",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Woking",
+    "Year": "..",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Wolverhampton",
+    "Year": "705",
+    "Region": "West Midlands",
+    "YearReigon": "8,690"
+  },
+  {
+    "Authority": "Barnsley",
+    "Year": "310",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Bradford",
+    "Year": "1,646",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Calderdale",
+    "Year": "522",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Coventry",
+    "Year": "713",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Derby",
+    "Year": "1,370",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "East Hertfordshire",
+    "Year": "170",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Guildford",
+    "Year": "223",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Harborough",
+    "Year": "96",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Islington",
+    "Year": "938",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Kettering",
+    "Year": "209",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Kirklees",
+    "Year": "965",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Newcastle upon Tyne",
+    "Year": "408",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "North East Derbyshire",
+    "Year": "142",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Redditch",
+    "Year": "141",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Rochdale",
+    "Year": "561",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Runnymede",
+    "Year": "109",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Rutland",
+    "Year": "47",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Sandwell",
+    "Year": "714",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Sedgemoor",
+    "Year": "280",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Tower Hamlets",
+    "Year": "760",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  },
+  {
+    "Authority": "Worcester",
+    "Year": "298",
+    "Region": "Yorkshire and The Humber",
+    "YearReigon": "13,480"
+  }
+]
